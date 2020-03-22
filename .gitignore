@@ -1,0 +1,9 @@
+# Vim
+[._]*.sw[a-p]
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+env/
+

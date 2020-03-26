@@ -16,6 +16,7 @@
 ![Insertion sort](insertion_sort.png)
 
 ## Notes
+- Complexity `O(n^2)` in worst case scenario: the cards are in reversed order.
 - Efficient for small number of cards
 - Simple and intuitive
 
